@@ -1,3 +1,7 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
+> In this task I wanted to train my understanding of anonymous functions. 
+
 # Bob
 
 Welcome to Bob on Exercism's Rust Track.
